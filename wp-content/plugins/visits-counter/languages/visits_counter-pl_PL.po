@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Last-Translator: Sławek Kapłoński <slawek@kaplonski.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+
+msgid "Online Users Offset"
+msgstr "Offset licznika osób online"
+
+msgid "Overall Users Offset"
+msgstr "Offset całkowitego licznika odwiedzin"
+
+msgid "Overall counter start time"
+msgstr "Czas rozpoczęcia działania licznika"
+
+msgid "Start Time display format"
+msgstr "Format wyświetlania daty startu"
+
+msgid "Disconnect Time [s]"
+msgstr "Czas po którym użytkownik jest traktowany jako nowy na stronie [s]"
+
+msgid "Visitors counter settings"
+msgstr "Ustawienia licznika odwiedzin"
+
+msgid "Users currently online"
+msgstr "Teraz na stronie"
+
+msgid "No."
+msgstr "Lp."
+
+msgid "IP Address"
+msgstr "Adres IP"
+
+msgid "Enters time"
+msgstr "Godzina wejścia"
+
+msgid "Count Bots (like GoogleBot)"
+msgstr "Uwzględniać roboty sieciowe (np. GoogleBot)"
+
+msgid "Display Total Counter in Widget"
+msgstr "Wyświetlać ogólny licznik w widget'cie"
+
+msgid "Display Current Online Counter in Widget"
+msgstr "Wyświetlać licznik osób online w widget'cie"
+
+msgid "Display Daily Counter in Widget"
+msgstr "Wyświetlać dzienny licznik w widget'cie"
+
+msgid "Display Weekly Counter in Widget"
+msgstr "Wyświetlać tygodniowy licznik w widget'cie"
+
+msgid "Count Admins on page (like You)"
+msgstr "Uwzględniać aministratorów strony (np. Ciebie)"
+
+msgid "Visits Counter Widget"
+msgstr "Licznik odwiedzin"
+
+msgid "Visits Counter - settings"
+msgstr "Licznik odwiedzin - ustawienia"
+
+msgid "Users on page"
+msgstr "Użytkownicy na stronie"
+
+msgid "Now online"
+msgstr "Aktualnie online"
+
+msgid "Overall"
+msgstr "W sumie"
+
+msgid "Today"
+msgstr "Dzisiaj"
+
+msgid "This week"
+msgstr "W tym tygodniu"
+
+msgid "Loading data"
+msgstr "Pobieranie danych"
+
+msgid "Widget's title"
+msgstr "Tytuł widget'u"
+
+msgid "Now online counter's label in widget"
+msgstr "Etykieta pola 'teraz online' w widget'cie"
+
+msgid "Overall counter's label in widget"
+msgstr "Etykieta pola 'W sumie' w widget'cie"
+
+msgid "Daily counter's label in widget"
+msgstr "Etykieta pola 'Dzisiaj' w widget'cie"
+
+msgid "Weekly counter's label in widget"
+msgstr "Etykieta pola 'W tym tygodniu' w widget'cie"

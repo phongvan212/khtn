@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+div#vs_left_column{
+	float: left;
+}
+div#vs_right_column{
+	float: left;
+	margin-left: 40px;
+}
+	div#vs_right_column table{
+		width: auto;
+		margin-top: 10px;
+	}
+		div#vs_right_column table th, div#vs_right_column table td {
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+	
+td.column-ip_address {
+	width: 400px;
+	cursor: pointer;
+}

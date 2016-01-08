@@ -1,0 +1,242 @@
+# Copyright (C) 2015 Awesome Weather Widget
+# This file is distributed under the same license as the Awesome Weather Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Awesome Weather Widget 1.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/awesome-weather\n"
+"POT-Creation-Date: 2015-05-21 19:42:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-01-05 14:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: awesome-weather.php:79
+msgid "C"
+msgstr "°C"
+
+#: awesome-weather.php:79
+msgid "F"
+msgstr "°F"
+
+#: awesome-weather.php:273
+msgid "N"
+msgstr "N"
+
+#: awesome-weather.php:274
+msgid "NNE"
+msgstr "NNE"
+
+#: awesome-weather.php:275
+msgid "NE"
+msgstr "NE"
+
+#: awesome-weather.php:276
+msgid "ENE"
+msgstr "ENE"
+
+#: awesome-weather.php:277
+msgid "E"
+msgstr "E"
+
+#: awesome-weather.php:278
+msgid "ESE"
+msgstr "ESE"
+
+#: awesome-weather.php:279
+msgid "SE"
+msgstr "SE"
+
+#: awesome-weather.php:280
+msgid "SSE"
+msgstr "SSE"
+
+#: awesome-weather.php:281
+msgid "S"
+msgstr "S"
+
+#: awesome-weather.php:282
+msgid "SSW"
+msgstr "SSW"
+
+#: awesome-weather.php:283
+msgid "SW"
+msgstr "SW"
+
+#: awesome-weather.php:284
+msgid "WSW"
+msgstr "WSW"
+
+#: awesome-weather.php:285
+msgid "W"
+msgstr "W"
+
+#: awesome-weather.php:286
+msgid "WNW"
+msgstr "WNW"
+
+#: awesome-weather.php:287
+msgid "NW"
+msgstr "NW"
+
+#: awesome-weather.php:288
+msgid "NNW"
+msgstr "NNW"
+
+#: awesome-weather.php:385
+msgid "km/h"
+msgstr "km/giờ"
+
+#: awesome-weather.php:385
+msgid "mph"
+msgstr "mph"
+
+#: awesome-weather.php:391
+msgid "humidity:"
+msgstr "Độ ẩm:"
+
+#: awesome-weather.php:392
+msgid "wind:"
+msgstr "Sức gió:"
+
+#: awesome-weather.php:393
+msgid "H"
+msgstr "H"
+
+#: awesome-weather.php:393
+msgid "L"
+msgstr "L"
+
+#: awesome-weather.php:409
+msgid "Sun"
+msgstr "Chủ nhật"
+
+#: awesome-weather.php:409
+msgid "Mon"
+msgstr "Thứ hai"
+
+#: awesome-weather.php:409
+msgid "Tue"
+msgstr "Thứ ba"
+
+#: awesome-weather.php:409
+msgid "Wed"
+msgstr "Thứ tư"
+
+#: awesome-weather.php:409
+msgid "Thu"
+msgstr "Thứ năm"
+
+#: awesome-weather.php:409
+msgid "Fri"
+msgstr "Thứ sáu"
+
+#: awesome-weather.php:409
+msgid "Sat"
+msgstr "Thứ bảy"
+
+#: awesome-weather.php:427
+msgid "extended forecast"
+msgstr "dự báo mở rộng"
+
+#: awesome-weather.php:448
+msgid "No weather information available"
+msgstr "Không có thông tin thời tiết thích hợp"
+
+#: awesome-weather.php:469
+msgid "No city found in OpenWeatherMap."
+msgstr "Không tìm thấy thành phố trong OpenWeatherMap"
+
+#: awesome-weather.php:470
+msgid "Only one location found. The ID has been set automatically above."
+msgstr "Chỉ tìm thấy duy nhất một địa danh. ID được đặt tự động như trên."
+
+#: awesome-weather.php:471
+msgid "Please confirm your city: &nbsp;"
+msgstr "Vui lòng xác nhận thành phố của bạn: &nbsp;"
+
+#: awesome-weather.php:555
+msgid "Search for Your Location:"
+msgstr "Tìm địa danh của bạn:"
+
+#: awesome-weather.php:556
+msgid "(i.e: London,UK or New York City,NY)"
+msgstr "(ví dụ: London,UK hoặc New York City,NY)"
+
+#: awesome-weather.php:563
+msgid "OpenWeatherMap City ID:"
+msgstr "ID thành phố OpenWeatherMap:"
+
+#: awesome-weather.php:564
+msgid "(use the field above to find the ID for your city)"
+msgstr "(dùng trường trên để tìm ID thành phố của bạn)"
+
+#: awesome-weather.php:577
+msgid "Override Title:"
+msgstr "Đặt lại tiêu đề:"
+
+#: awesome-weather.php:582
+msgid "Units:"
+msgstr "Đơn vị:"
+
+#: awesome-weather.php:588
+msgid "Size:"
+msgstr "Kích cỡ:"
+
+#: awesome-weather.php:597
+msgid "Forecast:"
+msgstr "Dự báo:"
+
+#: awesome-weather.php:609
+msgid "Background Image:"
+msgstr "Ảnh nền:"
+
+#: awesome-weather.php:615
+msgid "Use Different Background Images Based on Weather"
+msgstr "Dùng ảnh nền khác nhau dựa trên thời tiết"
+
+#: awesome-weather.php:619
+msgid "Custom Background Color:"
+msgstr "Màu nền tùy chỉnh:"
+
+#: awesome-weather.php:620
+msgid "overrides color changing"
+msgstr "Renk değişimini geçersiz kılar"
+
+#: awesome-weather.php:626
+msgid "Hide Stats"
+msgstr "İstatistikleri gizle"
+
+#: awesome-weather.php:632
+msgid "Link to OpenWeatherMap"
+msgstr "OpenWeatherMap Link"
+
+#: awesome-weather.php:636
+msgid "Widget Title: (optional)"
+msgstr "Bileşen başlığı: (isteğe bağlı)"
+
+#. Plugin Name of the plugin/theme
+msgid "Awesome Weather Widget"
+msgstr "Awesome Weather Widget"
+
+#. Plugin URI of the plugin/theme
+msgid "https://halgatewood.com/awesome-weather"
+msgstr "https://halgatewood.com/awesome-weather"
+
+#. Description of the plugin/theme
+msgid "A weather widget that actually looks cool"
+msgstr "A weather widget that actually looks cool"
+
+#. Author of the plugin/theme
+msgid "Hal Gatewood"
+msgstr "Hal Gatewood"
+
+#. Author URI of the plugin/theme
+msgid "https://www.halgatewood.com"
+msgstr "https://www.halgatewood.com"

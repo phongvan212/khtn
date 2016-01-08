@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Last-Translator: Andre Lohan <dc5ala@darc.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+
+msgid "Online Users Offset"
+msgstr "Online Besucher Versatz"
+
+msgid "Overall Users Offset"
+msgstr "Gesamt Besucher Versatz"
+
+msgid "Overall counter start time"
+msgstr "Gesamtzähler Startzeit"
+
+msgid "Start Time display format"
+msgstr "Startzeit Anzeigeformat"
+
+msgid "Disconnect Time [s]"
+msgstr "Trennung nach [s]"
+
+msgid "Visitors counter settings"
+msgstr "Besucherzähler Einstellungen"
+
+msgid "Users currently online"
+msgstr "Momentane Besucher online"
+
+msgid "No."
+msgstr "Nr."
+
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+msgid "Enters time"
+msgstr "Zeit"
+
+msgid "Count Bots (like GoogleBot)"
+msgstr "Bots zählen (z.B. GoogleBot)"
+
+msgid "Display Total Counter in Widget"
+msgstr "Gesamtzähler im Widget anzeigen"
+
+msgid "Display Current Online Counter in Widget"
+msgstr "Momentante Besucher online im Widget anzeigen"
+
+msgid "Display Daily Counter in Widget"
+msgstr "Tageszähler im Widget anzeigen"
+
+msgid "Display Weekly Counter in Widget"
+msgstr "Wochenzähler im Widget anzeigen"
+
+msgid "Count Admins on page (like You)"
+msgstr "Admins auf der Seite zählen (wie Dich)"
+
+msgid "Visits Counter Widget"
+msgstr "Besucherzähler Widget"
+
+msgid "Visits Counter - settings"
+msgstr "Besucherzähler - Einstellungen"
+
+msgid "Users on page"
+msgstr "Besucher auf der Seite"
+
+msgid "Now online"
+msgstr "Jetzt online"
+
+msgid "Overall"
+msgstr "Gesamt"
+
+msgid "Today"
+msgstr "Heute"
+
+msgid "This week"
+msgstr "Diese Woche"
+
+msgid "Loading data"
+msgstr "Lade Daten"
+
+msgid "Widget's title"
+msgstr "Widget's Titel"
+
+msgid "Now online counter's label in widget"
+msgstr "Etikett von Feld 'Jetzt online' in Widget"
+
+msgid "Overall counter's label in widget"
+msgstr "Etikett von Feld 'Gesamt' in Widget"
+
+msgid "Daily counter's label in widget"
+msgstr "Etikett von Feld 'Heute' in Widget"
+
+msgid "Weekly counter's label in widget"
+msgstr "Etikett von Feld 'Diese Woche' in Widget"
