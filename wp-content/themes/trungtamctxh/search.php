@@ -6,13 +6,13 @@
         <!--Sử dụng query để hiển thị số kết quả tìm kiếm được tìm thấy
                 Cũng như hiển thị từ khóa tìm kiếm. Từ khóa tìm kiếm cũng
                 có thể hiển thị được với hàm get_search_query()-->
-        <?php
-                $search_query = new WP_Query( 's='.$s.'&showposts=-1' );
-                $search_keyword = wp_specialchars( $s, 1);
-                $search_count = $search_query->post_count;
-                // var_dump( $search_query );
-                printf( __('Kết quả tìm kiếm: tìm thấy <strong>%1$s</strong> kết quả cho từ khóa <strong>%2$s</strong>.', 'cswd'), $search_count , $search_keyword);
-        ?>
+                <?php
+                        $search_query = new WP_Query( 's='.$s.'&showposts=-1' );
+                        $search_keyword = wp_specialchars( $s, 1);
+                        $search_count = $search_query->post_count;
+                        // var_dump( $search_query );
+                        printf( __('<div class="alert alert-info">Kết quả tìm kiếm: tìm thấy <strong>%1$s</strong> kết quả cho từ khóa <strong>%2$s</strong>.</div>', 'cswd'), $search_count , $search_keyword);
+                ?>
                 </div>
  			<?php if ( have_posts() ) : echo "<div class='list-group'>";while ( have_posts() ) : the_post(); ?>
                 <?php get_template_part( 'content', get_post_format() ); ?>

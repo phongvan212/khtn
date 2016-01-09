@@ -40,6 +40,11 @@
 		   $("#visits_counter_widget>.widgettitle").after("<hr/>")
 		   $("img").addClass("img-responsive");
 		   $("table").addClass("table");
+		   $("#s").attr("placeholder", "Tìm kiếm");
+		   $("#s").addClass("must-wrap");
+		   $("#searchsubmit").replaceWith("<spand class='input-group-btn must-wrap'><button id='searchsubmit' type='submit' class='btn btn-primary'><i class='fa fa-search'></i></button></spand>");
+		   $(".must-wrap").wrapAll("<div class='input-group'></div>");
+		   $(".screen-reader-text").replaceWith("");
 		   if ($("#myFrame").length > 0)
             {
                 var resInterval = setInterval(function () {
