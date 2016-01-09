@@ -310,3 +310,7 @@ a:visited {
     display: table;
     border-collapse: separate;
 }
+
+.widget_text>h3>a:hover{
+    color: white !important;
+}
